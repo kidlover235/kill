@@ -46,7 +46,7 @@
   /* Gradient variables */
   --gradient-primary: 103,58,183; /* DEFAULT: 103,58,183 */
   --gradient-secondary: 63,81,181; /* DEFAULT: 63,81,181 */
-  --gradient-direction: 320deg; /* DEFAULT: 320deg */
+  --gradient-direction: 0deg; /* DEFAULT: 320deg */
 
   /* Tint variables */
   --tint-colour: 255,51,159; /* Colour of tint | DEAFULT: 255,51,159 */
